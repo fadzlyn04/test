@@ -99,6 +99,8 @@ https://mediaprima.rastream.com/mediaprima-molekfm
  
 #EXTINF:-1 tvg-id="astroria.my" tvg-name="ASTRO Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO MALAYSIA",ASTRO Ria HD
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1705
+#EXTINF:-1 tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png" group-title="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
+http://linears-playback.astro.com.my/vsg/21sFh8sBBeXr4nzD58TGTLRysE4dc4c4dno_hWsu0sGxM=P1Ma/dash-wv/jitp-linearwm/1004/default_ott.mpd
 #EXTINF:-1 tvg-id="astroprima.my" tvg-name="ASTRO Prima HD" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png" group-title="ASTRO MALAYSIA",ASTRO Prima HD
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71020
 #EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" group-title="ASTRO MALAYSIA",ASTRO Warna HD
