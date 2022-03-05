@@ -123,7 +123,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6b64bf36b6b6b5f3f3f6bf6bf6bf4bf4fbf
 #EXTINF:-1 tvg-id="202" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png" group-title="INDIAN",ASTRO VINMEEN
-http://linears-playback.astro.com.my/vsg/21xEZtCdxrqFdJg_nOHqCYC4F5w-_GVLn0R2eVTWHw2T8=49zA/dash-wv/jitp-linearwm/2105/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/21zCOR7IN6qAtzW4JN_ESftEJkQ1S-ZJX8nCdMIxKPqa0=vXm-/dash-wv/jitp-linearwm/2105/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
@@ -764,4 +764,65 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Kaho Na Pyaa
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg" group-title="VOD|INDIA" tvg-id="" tvg-name="", Kal Ho Naa Ho
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Kal Ho Naa Ho (2003)%20HD
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Ghostbusters_-_Afterlife_official_theatrical_poster.jpg" group-title="VOD|KOLEKSI", Ghostbusters : Afterlife (2021)
+https://www1.xpeer.xyz/hls/ghostbusters-afterlife-2021/playlist_480.m3u8
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVjYThmNDAtOTE1NC00YjQ2LTk4NWYtNTc4Yzc4OTRhYjllXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",Marvel's Eternals IMAX Enhanced (2021) FHD" group-title="VOD|KOLEKSI", Marvels:Eternals (2021)
+https://onedrive.astradamy.com/api?path=/Movies/Marvel's.Eternals.2021/Eternals.2021.IMAX.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-TEPES.mkv&raw=true
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg" group-title="VOD|KOLEKSI", Marvels : Spider-Man No Way Home (2021)
+https://www1.xpeer.xyz/hls/spider-man-no-way-home-2021/playlist_480.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Harry_Potter_wordmark.svg" group-title="VOD|KOLEKSI", Harry Potter - Return To Hogwarts (2022)
+https://www1.xpeer.xyz/hls/harry-potter-20th-anniversary-return-to-hogwarts-2022/playlist_480.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Welcome_to_Raccoon_City.jpg" group-title="VOD|KOLEKSI", Resident Evil - Welcome To Raccon City (2021)
+https://www1.xpeer.xyz/hls/resident-evil-welcome-to-raccoon-city-2021/playlist_480.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Venom_Let_There_Be_Carnage_poster.jpg" group-title="VOD|KOLEKSI", Marvels : Venom - Let There Be Carnage (2021)
+https://www1.xpeer.xyz/hls/venom-let-there-be-carnage-2021/playlist_480.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Matrix_4_Logo.png" tvg-logo-small="https://en.wikipedia.org/wiki/The_Matrix_Resurrections#/media/File:The_Matrix_Resurrections.jpg" group-title="VOD|KOLEKSI", Matrix : Resurrections (2021)
+https://www1.xpeer.xyz/hls/the-matrix-resurrections-2021/playlist_480.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/No_Time_to_Die.svg" group-title="VOD", No.Time.to.Die.2021
+https://onedrive-danielmy.vercel.app/api?path=/Movies/No.Time.to.Die.2021/No.Time.to.Die.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Red_Notice_-_film_promotional_image.jpg" group-title="VOD|KOLEKSI", Red.Notice.2021.
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Red.Notice.2021.1080p.WEB-DL.x264.AAC5.1.Sub.MS.ENG.IND-PENCURiMOViE.CYOU.mkv&raw=true
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dune_2021_logo.png" group-title="VOD|KOLEKSI", Dune.2021
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Dune.2021.1080p.WEB-DL.5.1CH-en.id-PENCURiMOViE.CYOU.mkv&raw=true
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" group-title="VOD|KOLEKSI", The.Suicide.Squad.2021
+https://onedrive-danielmy.vercel.app/api?path=/Movies/The.Suicide.Squad.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg" group-title="VOD|KOLEKSI", Black.Widow.2021
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Black.Widow.2021/Black.Widow.2021.1080p.BluRay.x264.AAC5.1.SUB.MS.ENG.IND-PENCURiMOViE.CYOU.mkv&raw=true
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg" group-title="VOD|KOLEKSI", Shang.Chi.
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.1080p.BrRip-ms.en-PENCURiMOViE.CYOU.mkv&raw=true
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/F9_film_poster.jpg" group-title="VOD|KOLEKSI", F9
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Fast.and.Furious.F9.The.Fast.Saga.2021/F9.The.Fast.Sage.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjUzYTE3NTItZTAzNy00ZDA1LWFiYjUtMGRiMmY3NDYyNTRjXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_FMjpg_UX1000_.jpg" group-title="VOD|KOLEKSI", Makmum
+https://onedrive.astradamy.com/api?path=/Movies/Makmum.2019.1080p.WEB-DL.PENCURiMOViE.iCU.mkv&raw=true
+
+#EXTINF: -1 tvg-logo="https://aqfad.netlify.app/images/SiapaTutupLampu.png" group-title="VOD|KOLEKSI", Siapa.Tutup.Lampu.2021
+https://onedrive-aqfadtv.vercel.app/api?path=/VOD/Movies/Siapa.Tutup.Lampu.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv.mp4&raw=true
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Home_Sweet_Home_Alone_Poster.jpg" group-title="VOD|KOLEKSI", Home.Sweet.Home.Alone.2021
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Home.Sweet.Home.Alone.2021/Home.Sweet.Home.Alone.2021.1080p.WEBRip.x264-RARBG.mkv&raw=true
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Free_Guy_2021_Poster.jpg" group-title="VOD|KOLEKSI", Free.Guy.2021
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Free.Guy.2021.1080p.BluRay.x264.AAC5.1.SUB.MS.ENG.IND-PENCURiMOViE.CYOU.mkv&raw=true
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Jungle_Cruise_-_theatrical_poster.png" group-title="VOD|KOLEKSI", Jungle.Cruise.2021
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Jungle.Cruise.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true
+
+
+
+
 
