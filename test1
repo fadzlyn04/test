@@ -151,7 +151,7 @@ http://iptv.tvmalaysia.cc:80/109789/109789/6739
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6b64bf36b6b6b5f3f3f6bf6bf6bf4bf4fbf
 #EXTINF:-1 tvg-id="202" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png" group-title="INDIAN",ASTRO VINMEEN
 http://linears-playback.astro.com.my/vsg/21xEZtCdxrqFdJg_nOHqCYC4F5w-_GVLn0R2eVTWHw2T8=49zA/dash-wv/jitp-linearwm/2105/default_ott.mpd
-#EXTINF:-1 tvg-id="" tvg-name="MY055:VINMEEN HD" tvg-logo="" group-title="ASTRO MALAYSAI",MY055:VINMEEN HD (backup)
+#EXTINF:-1 tvg-id="" tvg-name="MY055:VINMEEN HD" tvg-logo="" group-title="INDIAN",MY055:VINMEEN HD (backup)
 http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71033
 
 
