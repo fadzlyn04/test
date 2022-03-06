@@ -99,23 +99,23 @@ https://mediaprima.rastream.com/mediaprima-molekfm
  
 #EXTINF:-1 tvg-id="astroria.my" tvg-name="ASTRO Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO MALAYSIA",ASTRO Ria HD
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1705
-#EXTINF: -1 tvg-id="astroria.my" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="LIVE | ASTRO", ASTRO Ria HD
+#EXTINF: -1 tvg-id="astroria.my" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO MALAYSIA", ASTRO Ria HD (backup)
 http://iptv.tvmalaysia.cc:80/109789/109789/6730
 
 #EXTINF:-1 tvg-id="astroprima.my" tvg-name="ASTRO Prima HD" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png" group-title="ASTRO MALAYSIA",ASTRO Prima HD
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71020
-#EXTINF: -1 tvg-id="astroprima.my" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png" group-title="LIVE | ASTRO", ASTRO Prima HD
+#EXTINF: -1 tvg-id="astroprima.my" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png" group-title="ASTRO MALAYSIA ", ASTRO Prima HD (backup)
 http://iptv.tvmalaysia.cc:80/109789/109789/6727
 
 #EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" group-title="ASTRO MALAYSIA",ASTRO Warna HD
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1706
-#EXTINF: -1 tvg-id="astrowarna.my" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" group-title="LIVE | ASTRO", ASTRO Warna HD
+#EXTINF: -1 tvg-id="astrowarna.my" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" group-title="ASTRO MALAYSIA", ASTRO Warna HD (backup)
 http://iptv.tvmalaysia.cc:80/109789/109789/6740
 
 
 #EXTINF:-1 tvg-id="astrocitra.my" tvg-name="Astro Citra HD" tvg-logo="http://tvmalaysia.cc:80/images/44f283fece8e89c263b9d1aba29f3d8c.png" group-title="ASTRO MALAYSIA",Astro Citra HD (subtitle)
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71146
-#EXTINF: -1 tvg-id="astrocitra.my" tvg-logo="http://tvmalaysia.cc:80/images/44f283fece8e89c263b9d1aba29f3d8c.png" group-title="LIVE | ASTRO", Astro Citra HD (subtitle)
+#EXTINF: -1 tvg-id="astrocitra.my" tvg-logo="http://tvmalaysia.cc:80/images/44f283fece8e89c263b9d1aba29f3d8c.png" group-title="ASTRO MALAYSIA", Astro Citra HD (subtitle)
 http://iptv.tvmalaysia.cc:80/109789/109789/7267
 
 
@@ -132,6 +132,9 @@ http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71144.ts
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b48c95c2e844ea2b59e27fb42fe4b510&key=1168d5b1fcb20ad3973b101f2775c9a9
 #EXTINF:-1 tvg-id="201" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vaanavil_v2.png" group-title="INDIAN",ASTRO VAANAVIL
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
+#EXTINF: -1 tvg-id="MY: ASTRO VINMEEN HD" tvg-logo="http://tvmalaysia.cc:80/images/213a25d32535c979e752d542bcb92f91.png" group-title="INDIAN", ASTRO Vinmeen HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6739
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6b64bf36b6b6b5f3f3f6bf6bf6bf4bf4fbf
@@ -629,7 +632,7 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/TamilsBolly/Kuch Ku
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRl7wrJmkOzMTDVYFSIpUcsIjPQ.jpg" group-title="VOD|INDIA", Kabhi Khushi Kabhie Gham
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Kabhi Khushi Kabhie Gham (2001).mkv
 
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alALytPcaZyQkzOjnRgHMSRv8fq.jpg" group-title="VOD|INDIA", Kaho Naa... Pyaar Hai
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alALytPcaZyQkzOjnRgHMSRv8fq.jpg" group-title="VOD|INDIA", Kaho Naa Pyaar Hai
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Kaho Na Pyaar Hai (2000)%20HDRip.mkv
 
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg" group-title="VOD|INDIA", Kal Ho Naa Ho
@@ -818,13 +821,13 @@ https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The
 
 VOD|MELAYU
 
-#EXTINF: -1 tvg-name="Rumah Maduku Berhantu (2021)" tvg-logo="https://1.bp.blogspot.com/--teICXp6kJw/YZxIlecWv2I/AAAAAAABrGA/xZ0wIu_Ds4MN4OeZXbUUR_OBrFIfo7lBgCLcBGAsYHQ/s733/Rumah%2BMadu%2BKu%2BBerhantu%2Bfilem.jpg" group-title="VOD|MELAYU", Rumah Maduku Berhantu (2021)
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/--teICXp6kJw/YZxIlecWv2I/AAAAAAABrGA/xZ0wIu_Ds4MN4OeZXbUUR_OBrFIfo7lBgCLcBGAsYHQ/s733/Rumah%2BMadu%2BKu%2BBerhantu%2Bfilem.jpg" group-title="VOD|MELAYU", Rumah Maduku Berhantu (2021)
 http://foctv.xyz:25510/movie/Imrany/BB1732/510.mp4
 
-#EXTINF: -1 tvg-name="Kerana Korona (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7QoadT6QqrsGZtVhoLRPdC3gVT.jpg" group-title="VOD|MELAYU", Kerana Korona (2021)
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7QoadT6QqrsGZtVhoLRPdC3gVT.jpg" group-title="VOD|MELAYU", Kerana Korona (2021)
 http://iptv12k.com:35461/movie/8022011502/123456/1073.mp4
 
-#EXTINF: -1 tvg-name="10 Tips Tipu Bini (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcPt0wIkXyuDV2ZjrDs1Hk79KAj.jpg" group-title="VOD|MELAYU", 10 Tips Tipu Bini (2021)
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcPt0wIkXyuDV2ZjrDs1Hk79KAj.jpg" group-title="VOD|MELAYU", 10 Tips Tipu Bini (2021)
 http://iptv12k.com:35461/movie/8022011502/123456/1069.mp4
 
 #EXTINF: -1 tvg-logo="https://www.imdb.com/title/tt14470102/mediaviewer/rm2541601281/" group-title="VOD|MELAYU", 18 Puasa Di Kampung Pisang
