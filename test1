@@ -1,7 +1,7 @@
 #EXTM3U
-url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
-url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/mytv.xml" refresh="1440" max-conn="1" refresh="24"
-url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
+url-tvg="https://raw.githubusercontent.com/fadzlyn04/main-1/main/satu?token=GHSAT0AAAAAABSC5GW3E7DVCXXT6CPG5T64YREO3HQ" refresh="1440" max-conn="1" refresh="24"
+url-tvg="https://raw.githubusercontent.com/fadzlyn04/main-1/main/dua?token=GHSAT0AAAAAABSC5GW3N46RDX2X5PW3N45MYREO6UQ" refresh="1440" max-conn="1" refresh="24"
+url-tvg="https://raw.githubusercontent.com/fadzlyn04/main-1/main/Singapore?token=GHSAT0AAAAAABSC5GW3TH24IV7U26XUW4GYYREO7RQ" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 #EXTM3U
