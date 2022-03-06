@@ -22,6 +22,35 @@ http://linears-playback.astro.com.my/vsg/21obIsvAmHGArpzcs6VCUhGAwNH6rdGAYR1Bj0U
 http://linears-playback.astro.com.my/vsg/21obIsvAmHGArpzcs6VCUhGAwNH6rdGAYR1Bj0Uw1dssc=HVli/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
+#EXTINF:-1 tvg-id="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SPORT",ASTRO SUPERSPORT
+http://linears-playback.astro.com.my/vsg/21obIsvAmHGArpzcs6VCUhGAwNH6rdGAYR1Bj0Uw1dssc=HVli/dash-wv/jitp-linearwm/601/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+#EXTINF:-1 tvg-id="812" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORT",ASTRO SUPERSPORT 2
+http://linears-playback.astro.com.my/vsg/21obIsvAmHGArpzcs6VCUhGAwNH6rdGAYR1Bj0Uw1dssc=HVli/dash-wv/jitp-linearwm/2104/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+#EXTINF:-1 tvg-id="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORT",ASTRO SUPERSPORT 3
+http://linears-playback.astro.com.my/vsg/21obIsvAmHGArpzcs6VCUhGAwNH6rdGAYR1Bj0Uw1dssc=HVli/dash-wv/jitp-linearwm/2701/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
+#EXTINF:-1 tvg-id="814" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORT",ASTRO SUPERSPORT 4
+http://linears-playback.astro.com.my/vsg/21obIsvAmHGArpzcs6VCUhGAwNH6rdGAYR1Bj0Uw1dssc=HVli/dash-wv/jitp-linearwm/2506/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
+#EXTINF:-1 tvg-id="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="SPORT",ASTRO SUPERSPORT 5
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
 #EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="MALAYSIA test",ASTRO OASIS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
@@ -37,6 +66,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
 #EXTINF:-1 tvg-id="112" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="MALAYSIA test",ASTRO RANIA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+
+
 
 #EXTINF:-1g-id="101"g-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MALAYSIA",TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
@@ -151,45 +182,24 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" group-title="ASTRO MALAYSIA",ASTRO Warna HD
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1706
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="ASTRO MALAYSIA",ASTRO WARNA (backup1)
-http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1706
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="ASTRO MALAYSIA",ASTRO WARNA (backup2)
-http://linears-playback.astro.com.my/vsg/21obIsvAmHGArpzcs6VCUhGAwNH6rdGAYR1Bj0Uw1dssc=HVli/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 
 
 #EXTINF:-1 tvg-id="astrocitra.my" tvg-name="Astro Citra HD" tvg-logo="http://tvmalaysia.cc:80/images/44f283fece8e89c263b9d1aba29f3d8c.png" group-title="ASTRO MALAYSIA",Astro Citra HD
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71146
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="ASTRO MALAYSIA",ASTRO CITRA (backup)
-http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71146
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="ASTRO MALAYSIA",ASTRO CITRA (backup)
-http://linears-playback.astro.com.my/vsg/21obIsvAmHGArpzcs6VCUhGAwNH6rdGAYR1Bj0Uw1dssc=HVli/dash-wv/jitp-linearwm/2700/default_ott.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=:https//clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48 
-#EXTINF:-1 tvg-id="106" ch-number="AstroOasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO MALAYSIA",ASTRO Oasis HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/0b67d68665c92067221b479621db7952.png" group-title="ASTRO MALAYSIA",ASTRO Aura HD
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71145
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png" group-title="ASTRO MALAYSIA",ASTRO AURA (backup1)
-http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71145.ts
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FmY0xnWCPCNaSpRG-tUuTQ","kid":"nrQFDeRLSAKTLifXUIPiZg"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png" group-title="MALAYSIA",ASTRO AURA (backup2)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+
 
 
 #EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/4408bc4a7b2f8ad6317ce413de65d2c8.png" group-title="ASTRO MALAYSIA",ASTRO Rania HD
 http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71144.ts
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="ASTRO MALAYSIA",ASTRO RANIA (backup1)
-http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71144.ts
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="ASTRO MALAYSIA",ASTRO RANIA (backup2)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b48c95c2e844ea2b59e27fb42fe4b510&key=1168d5b1fcb20ad3973b101f2775c9a9
