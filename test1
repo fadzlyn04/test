@@ -84,10 +84,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #EXTINF:-1g-id="101"g-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MALAYSIA",TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1g-id="102"g-logo="https://upload.wikimedia.org/wikipedia/en/7/78/TV2_RTMS.png" group-title="MALAYSIA",TV2
+#EXTINF:-1g-id="102"g-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV2_RTM.png" group-title="MALAYSIA",TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1g-id="103"g-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/TV3_%28Malaysia%29.svg" group-title="MALAYSIA",TV3
+#EXTINF:-1g-id="103"g-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/STMB_TV3.png" group-title="MALAYSIA",TV3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:1 tvg-id="tv6.id" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-Logo-PNG.png" group-title="MALAYSIA",TV6
@@ -108,7 +108,7 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="MALAYSIA",DIDIK
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
-#EXTINF:-1g-id=""g-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg" group-title="MALAYSIA",DRAMA SANGAT
+#EXTINF:-1g-id=""g-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Drama-Sangat-2020.png" group-title="MALAYSIA",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA" ch-number="120"g-id="120"g-chno="120"g-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MYTV_Malaysia_Logo.png",GO Shop MYTV 
@@ -413,7 +413,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-#EXTINF:-1 tvg-id="413" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMOVIEs.png" group-title="MOVIE",SHOWCASE MOVIES
+#EXTINF:-1 tvg-id="413" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ShowcaseMovies.png" group-title="MOVIE",SHOWCASE MOVIES
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -564,7 +564,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e2a4758854ddf83f1e8f465a3d3d8910&key=a464e1f2f904d40f3235a57304e72d78
-#EXTINF:-1g-id="800"g-logo="http://linear-poster.astro.com.my/prod/logo/eGG_v1.png" group-title="SPORT",eGG NETWORK
+#EXTINF:-1g-id="800"g-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="SPORT",eGG NETWORK
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -574,7 +574,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
-#EXTINF:-1g-id="802"g-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="SPORT",ASTRO ARENA 2
+#EXTINF:-1g-id="802"g-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORT",ASTRO ARENA 2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #EXTINF:-1 tvg-id="811" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="SPORT",ASTRO SUPERSPORT (backup)
@@ -597,7 +597,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
-#EXTINF:-1g-id="818"g-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="SPORT",BEIN SPORTS
+#EXTINF:-1g-id="818"g-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="SPORT",BEIN SPORTS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -607,12 +607,12 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
-#EXTINF:-1g-id="817"g-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="SPORT",BEIN SPORTS 2
+#EXTINF:-1g-id="817"g-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="SPORT",BEIN SPORTS 2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
-#EXTINF:-1g-id="819"g-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="SPORT",BEIN SPORTS 3
+#EXTINF:-1g-id="819"g-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="SPORT",BEIN SPORTS 3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -622,7 +622,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7299bdb9de13b235cda94cd5063ab810&key=247ed97854d185349998873672294cad
-#EXTINF:-1g-id="820"g-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-title="SPORT",EUROSPORT
+#EXTINF:-1g-id="820"g-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="SPORT",EUROSPORT
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -632,7 +632,7 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bef29d5caac3628eb1efae8a215fae10&key=645a0014ea459a86cfa72cf8137bb4a7
-#EXTINF:-1g-id="822"g-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="SPORT",GOLF CHANNEL
+#EXTINF:-1g-id="822"g-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/GolfChannelHD.png" group-title="SPORT",GOLF CHANNEL
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -652,17 +652,17 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
-#EXTINF:-1g-id="816"g-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="SPORT",SPOTV
+#EXTINF:-1g-id="816"g-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SPO_TV_logo.png" group-title="SPORT",SPOTV
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1g-id=""g-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png" group-title="SPORT",SPOTV2
+#EXTINF:-1g-id=""g-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SPO_TV_logo.png" group-title="SPORT",SPOTV2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
-#EXTINF:-1g-id="821"g-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="SPORT",WWE NETWORK
+#EXTINF:-1g-id="821"g-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Logo.svg" group-title="SPORT",WWE NETWORK
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
 VOD|KLASIK
