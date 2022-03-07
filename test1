@@ -907,7 +907,7 @@ VOD|KOREA
 #EXTINF: -1 tvg-name="Escape from mogadishu(2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njeNAznro7VI80R99Z1MH8noubu.jpg" group-title="VOD|KOREA", Escape from mogadishu(2021)
 https://www.googleapis.com/drive/v3/files/1-j6j8IxMfrS7EC0sihAHpOC3rXJmk1Qc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF: -1 tvg-name="KINGSMAN)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njeNAznro7VI80R99Z1MH8noubu.jpg" group-title="VOD|KOREA", Escape from mogadishu(2021)"
+#EXTINF: -1 tvg-name="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/PNG_Test.png" group-title="VOD|KOREA", TEST"
 https://afdah.video/embed/6856242
 
 
