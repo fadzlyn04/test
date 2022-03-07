@@ -908,7 +908,7 @@ VOD|KOREA
 https://www.googleapis.com/drive/v3/files/1-j6j8IxMfrS7EC0sihAHpOC3rXJmk1Qc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF: -1 tvg-name="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/PNG_Test.png" group-title="VOD|KOREA", TEST"
-https://afdah.video/embed/6856242
+url-tvg="https://raw.githubusercontent.com/fadzlyn04/iptv/main/THE%20KINGS%20MAN"
 
 
 
