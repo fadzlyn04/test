@@ -962,6 +962,12 @@ url-tvg="https://raw.githubusercontent.com/fadzlyn04/iptv/main/THE%20KINGS%20MAN
 #EXTINF: -1 tvg-name="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/PNG_Test.png" group-title="TEST", TEST"
 https://afdah.video/watch-movies/68684-eternals-2021/?jwsource=cl
 
+#EXTINF: -1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="INDONESIA", TRANS
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+
+#EXTINF: -1 tvg-id="TR7.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="INDONESIA", TRANS 7
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+
 
 
 
