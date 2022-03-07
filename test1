@@ -311,6 +311,14 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 
+#EXTINF: -1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="INDONESIA", TRANS
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+
+#EXTINF: -1 tvg-id="TR7.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="INDONESIA", TRANS 7
+http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
@@ -907,66 +915,9 @@ VOD|KOREA
 #EXTINF: -1 tvg-name="Escape from mogadishu(2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njeNAznro7VI80R99Z1MH8noubu.jpg" group-title="VOD|KOREA", Escape from mogadishu(2021)
 https://www.googleapis.com/drive/v3/files/1-j6j8IxMfrS7EC0sihAHpOC3rXJmk1Qc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 1 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23406.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 2 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23407.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 3 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23408.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 4 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23409.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 5 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23410.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 6 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23411.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 7 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23412.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 8 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23413.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 9 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23414.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 10 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23415.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 11 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23416.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 12 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23417.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 13 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23418.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 14 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23419.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 15 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23420.mkv
-
-#EXTINF:-1 tvg-logo="https://melongmovie.net/wp-content/uploads/2021/02/1614097786-86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="KOREA|DRAMA,Vagabond Episod 16 (2019)
-http://zalogitv.tech:8080/series/padji33/33334444/23421.mkv
 
 
-#EXTINF: -1 tvg-name="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/PNG_Test.png" group-title="TEST", TEST"
-url-tvg="https://raw.githubusercontent.com/fadzlyn04/iptv/main/THE%20KINGS%20MAN"
 
-#EXTINF: -1 tvg-name="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/PNG_Test.png" group-title="TEST", TEST"
-https://afdah.video/watch-movies/68684-eternals-2021/?jwsource=cl
-
-#EXTINF: -1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="INDONESIA", TRANS
-https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
-
-#EXTINF: -1 tvg-id="TR7.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="INDONESIA", TRANS 7
-https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 
 #EXTINF: -1 tvg-id=".Asia" tvg-name="305" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport1.png" group-title="SPORTS", UNIFI SPORT 1
 http://iptvtree.net:8080/test-e78555/cf00/264787
