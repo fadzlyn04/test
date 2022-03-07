@@ -7,12 +7,12 @@ url-tvg="https://raw.githubusercontent.com/fadzlyn04/main-1/main/Singapore?token
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="ASTRO MALAYSIA",ASTRO RIA
-http://linears-playback.astro.com.my/vsg/21obIsvAmHGArpzcs6VCUhGAwNH6rdGAYR1Bj0Uw1dssc=HVli/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/21QNAW8FaUT4IKq_cXvyh1-o301tVihZ0r2M0k3cuTC2U=HVli/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="ASTRO MALAYSIA",ASTRO WARNA
-http://linears-playback.astro.com.my/vsg/21obIsvAmHGArpzcs6VCUhGAwNH6rdGAYR1Bj0Uw1dssc=HVli/dash-wv/jitp-linearwm/2402/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/21QNAW8FaUT4IKq_cXvyh1-o301tVihZ0r2M0k3cuTC2U/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
