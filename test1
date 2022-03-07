@@ -80,13 +80,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #EXTINF:-1g-id="101"g-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MALAYSIA",TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1g-id="102"g-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="MALAYSIA",TV2
+#EXTINF:-1g-id="102"g-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="MALAYSIA",TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1g-id="103"g-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="MALAYSIA",TV3
+#EXTINF:-1g-id="103"g-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/TV3_%28Malaysia%29.svg" group-title="MALAYSIA",TV3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1g-id=""g-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MALAYSIA",TV6
+#EXTINF:-1g-id=""g-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="MALAYSIA",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1g-id="148"g-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-title="MALAYSIA",8TV
@@ -101,22 +101,22 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 #EXTINF:-1g-id="146"g-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="MALAYSIA",TV OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1g-id="147"g-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA",DIDIK
+#EXTINF:-1g-id="147"g-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="MALAYSIA",DIDIK
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
 #EXTINF:-1g-id=""g-logo="http://mediahomes.github.io/logos/drama-sangat.png" group-title="MALAYSIA",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA" ch-number="120"g-id="120"g-chno="120"g-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV 
+#EXTINF:-1 group-title="MALAYSIA" ch-number="120"g-id="120"g-chno="120"g-logo="https://logos.fandom.com/wiki/GO_Shop?file=118%25281%2529.png",GO Shop MYTV 
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA" ch-number="121"g-id="121"g-chno="121"g-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
+#EXTINF:-1 group-title="MALAYSIA" ch-number="121"g-id="121"g-chno="121"g-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Bernama_%28logo%29.jpg",Bernama
 https://weareblahs.github.io/yttestlabs/youtube.m3u
 
 #EXTINF:-1 group-title="MALAYSIA" ch-number="122"g-id="122"g-chno="122"g-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA" ch-number="123"g-id="123"g-chno="123"g-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTINF:-1 group-title="MALAYSIA" ch-number="123"g-id="123"g-chno="123"g-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png",Berita RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 group-title="MALAYSIA Radio" ch-number="701"g-id="701"g-chno="701"g-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
