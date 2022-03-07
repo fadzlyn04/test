@@ -4,6 +4,9 @@ url-tvg="https://raw.githubusercontent.com/fadzlyn04/main-1/main/dua?token=GHSAT
 url-tvg="https://raw.githubusercontent.com/fadzlyn04/main-1/main/Singapore?token=GHSAT0AAAAAABSC5GW3TH24IV7U26XUW4GYYREO7RQ" refresh="1440" max-conn="1" refresh="24"
 url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="1440" max-conn="1" refresh="24"
 url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="1440" max-conn="1" refresh="24"
+url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" refresh="1440" max-conn="1" refresh="24"
+
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
@@ -904,8 +907,8 @@ VOD|KOREA
 #EXTINF: -1 tvg-name="Escape from mogadishu(2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njeNAznro7VI80R99Z1MH8noubu.jpg" group-title="VOD|KOREA", Escape from mogadishu(2021)
 https://www.googleapis.com/drive/v3/files/1-j6j8IxMfrS7EC0sihAHpOC3rXJmk1Qc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-
-
+#EXTINF: -1 tvg-name="KINGSMAN)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njeNAznro7VI80R99Z1MH8noubu.jpg" group-title="VOD|KOREA", Escape from mogadishu(2021)"
+https://afdah.video/embed/6856242
 
 
 
