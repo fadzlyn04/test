@@ -46,7 +46,7 @@ http://linears-playback.astro.com.my/vsg/21GVYyTHedupmrIKP3Q1BYX-0MEyJsLdpFPOiu8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
-#EXTINF:-1g-id="AstroVinmeenHD" ch-number="AstroVinmeenHD"g-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="INDIAN",202 Astro Vinmeen  
+#EXTINF:-1g-id="AstroVinmeenHD" ch-number="AstroVinmeenHD"g-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-title="INDIAN",202 Astro Vinmeen  
 https://linears-playback.astro.com.my/vsg/21GVYyTHedupmrIKP3Q1BYX-0MEyJsLdpFPOiu8azL1hY=DumB/dash-wv/jitp-linearwm/2105/default_ott.mpd
 
 
@@ -55,7 +55,7 @@ https://linears-playback.astro.com.my/vsg/21GVYyTHedupmrIKP3Q1BYX-0MEyJsLdpFPOiu
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
-#EXTINF:-1 tvg-id="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="SPORT",ASTRO SUPERSPORT 5
+#EXTINF:-1 tvg-id="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/AstroSupersport5.png" group-title="SPORT",ASTRO SUPERSPORT 5
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 
@@ -84,10 +84,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #EXTINF:-1g-id="101"g-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MALAYSIA",TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1g-id="102"g-logo="https://tvmalaysia.cc:80/images/884a3720c93a65943ca3d37aea5cd686.png" group-title="MALAYSIA",TV2
+#EXTINF:-1g-id="102"g-logo="https://upload.wikimedia.org/wikipedia/en/7/78/TV2_RTMS.png" group-title="MALAYSIA",TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1g-id="103"g-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/800px-TV3_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV3
+#EXTINF:-1g-id="103"g-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/TV3_%28Malaysia%29.svg" group-title="MALAYSIA",TV3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:1 tvg-id="tv6.id" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-Logo-PNG.png" group-title="MALAYSIA",TV6
@@ -96,7 +96,7 @@ https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1 tvg-id="TV8.my" tvg-name="8TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="MALAYSIA",8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
-#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://tvmalaysia.cc:80/images/001d2025b7bb5a0d0f180adff62ec4b7.png" group-title="MALAYSIA",TV9
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV9_Malaysia_Logo_2021.png" group-title="MALAYSIA",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1g-id="114"g-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="MALAYSIA",TV ALHIJRAH
@@ -108,10 +108,10 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="MALAYSIA",DIDIK
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
-#EXTINF:-1g-id=""g-logo="https://mediahomes.github.io/logos/drama-sangat.png" group-title="MALAYSIA",DRAMA SANGAT
+#EXTINF:-1g-id=""g-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg" group-title="MALAYSIA",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA" ch-number="120"g-id="120"g-chno="120"g-logo="https://logos.fandom.com/wiki/GO_Shop?file=118%25281%2529.png",GO Shop MYTV 
+#EXTINF:-1 group-title="MALAYSIA" ch-number="120"g-id="120"g-chno="120"g-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MYTV_Malaysia_Logo.png",GO Shop MYTV 
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA" ch-number="121"g-id="121"g-chno="121"g-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Bernama_%28logo%29.jpg",Bernama
@@ -205,7 +205,7 @@ http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71144.ts
 #EXTINF:-1 tvg-id="201" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vaanavil_v2.png" group-title="INDIAN",ASTRO VAANAVIL
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
-#EXTINF: -1 tvg-id="MY: ASTRO VINMEEN HD" tvg-logo="https://tvmalaysia.cc:80/images/213a25d32535c979e752d542bcb92f91.png" group-title="INDIAN", ASTRO VINMEEN (backup)
+#EXTINF: -1 tvg-id="MY: ASTRO VINMEEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-title="INDIAN", ASTRO VINMEEN (backup)
 http://iptv.tvmalaysia.cc:80/109789/109789/6739
 
 
@@ -218,7 +218,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
-#EXTINF:-1 tvg-id="241" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_BoxOffice_MOVIEs_v1.png" group-title="INDIAN",ASTRO THANGATHIRAI
+#EXTINF:-1 tvg-id="241" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/ABO_Thangathirai.png" group-title="INDIAN",ASTRO THANGATHIRAI
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -592,7 +592,7 @@ https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/158.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
-#EXTINF:-1g-id="815"g-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="SPORT",ASTRO SUPERSPORT 5
+#EXTINF:-1g-id="815"g-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/AstroSupersport5.png" group-title="SPORT",ASTRO SUPERSPORT 5
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
