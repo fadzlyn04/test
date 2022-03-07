@@ -2,7 +2,8 @@
 url-tvg="https://raw.githubusercontent.com/fadzlyn04/main-1/main/ALL?token=GHSAT0AAAAAABSC5GW3BNUD24V5WOZ4VNJWYRFUN7Q" refresh="1440" max-conn="1" refresh="24"
 url-tvg="https://raw.githubusercontent.com/fadzlyn04/main-1/main/dua?token=GHSAT0AAAAAABSC5GW3N46RDX2X5PW3N45MYREO6UQ" refresh="1440" max-conn="1" refresh="24"
 url-tvg="https://raw.githubusercontent.com/fadzlyn04/main-1/main/Singapore?token=GHSAT0AAAAAABSC5GW3TH24IV7U26XUW4GYYREO7RQ" refresh="1440" max-conn="1" refresh="24"
-
+url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="1440" max-conn="1" refresh="24"
+url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
