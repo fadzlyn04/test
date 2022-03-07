@@ -84,19 +84,19 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #EXTINF:-1g-id="101"g-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MALAYSIA",TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1g-id="102"g-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="MALAYSIA",TV2
+#EXTINF:-1g-id="102"g-logo="http://tvmalaysia.cc:80/images/884a3720c93a65943ca3d37aea5cd686.png" group-title="MALAYSIA",TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1g-id="103"g-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/TV3_%28Malaysia%29.svg" group-title="MALAYSIA",TV3
+#EXTINF:-1g-id="103"g-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/800px-TV3_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1g-id=""g-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="MALAYSIA",TV6
+#EXTINF:1 tvg-id="tv6.id" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-Logo-PNG.png" group-title="MALAYSIA",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
-#EXTINF:-1g-id="148"g-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-title="MALAYSIA",8TV
+#EXTINF:-1 tvg-id="TV8.my" tvg-name="8TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="MALAYSIA",8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
-#EXTINF:-1g-id="149"g-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-title="MALAYSIA",TV9
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="http://tvmalaysia.cc:80/images/001d2025b7bb5a0d0f180adff62ec4b7.png" group-title="MALAYSIA",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1g-id="114"g-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="MALAYSIA",TV ALHIJRAH
@@ -105,7 +105,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 #EXTINF:-1g-id="146"g-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="MALAYSIA",TV OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1g-id="147"g-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="MALAYSIA",DIDIK
+#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="MALAYSIA",DIDIK
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
 #EXTINF:-1g-id=""g-logo="http://mediahomes.github.io/logos/drama-sangat.png" group-title="MALAYSIA",DRAMA SANGAT
@@ -907,8 +907,12 @@ VOD|KOREA
 #EXTINF: -1 tvg-name="Escape from mogadishu(2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njeNAznro7VI80R99Z1MH8noubu.jpg" group-title="VOD|KOREA", Escape from mogadishu(2021)
 https://www.googleapis.com/drive/v3/files/1-j6j8IxMfrS7EC0sihAHpOC3rXJmk1Qc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF: -1 tvg-name="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/PNG_Test.png" group-title="VOD|KOREA", TEST"
+
+#EXTINF: -1 tvg-name="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/PNG_Test.png" group-title="TEST", TEST"
 url-tvg="https://raw.githubusercontent.com/fadzlyn04/iptv/main/THE%20KINGS%20MAN"
+
+#EXTINF: -1 tvg-name="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/PNG_Test.png" group-title="TEST", TEST"
+https://afdah.video/watch-movies/68684-eternals-2021/?jwsource=cl
 
 
 
