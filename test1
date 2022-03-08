@@ -630,7 +630,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7299bdb9de13b235cda94cd5063ab810&key=247ed97854d185349998873672294cad
-#EXTINF:-1g-id="820" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Eurosport_Logo_%282011-2015%29.svg" group-title="SPORT",EUROSPORT
+#EXTINF:-1g-id="820" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="SPORT",EUROSPORT
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
