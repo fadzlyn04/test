@@ -460,8 +460,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png" group-title="MOVIE",STAR MOVIES
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/299.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV70kRkT/BLACK-CINEMA.png" group-title="MOVIE" tvg-id="" tvg-name="", STAR MOVIES
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/YaAM9uAb.png" group-title="MOVIE",STAR MOVIES SELECT
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/300.ts
