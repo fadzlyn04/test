@@ -57,10 +57,10 @@ http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW
 #EXTINF:-1g-id="AstroVinmeenHD" ch-number="AstroVinmeenHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-title="INDIAN",202 Astro Vinmeen  
 https://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2105/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="CHINESE" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",Astrox AEC 
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="CHINESE" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",Astro AEC 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-#https://linears-playback.astro.com.my/vsg/21ZM6u9xCrFvQk29_Lzjo3AgaHiwWBkdNn13rXBjtiRJE=_KtJ/dash-wv/jitp-linearwm/2400/default_ott.mpd
+#https://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2400/default_ott.mpd
 
 
 
@@ -1046,13 +1046,6 @@ https://www.googleapis.com/drive/v3/files/1-j6j8IxMfrS7EC0sihAHpOC3rXJmk1Qc?alt=
 
 
 
-TEST 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b3ccf73a7a664f85ae7411367ffb2fa7&key=9687d91b7fd647a88183d0a4cc925f77
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sports" tvg-logo="https://iili.io/1NzqF4.png",Astro SuperSport TEST2 FHD
-https://linear01-playback.sooka.my/CH1/masterCH1.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1190,7 +1183,7 @@ https://tinyurl.com/bdd6ncba
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://tinyurl.com/mupd5wyp
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="BACKUPT" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna 2
+#EXTINF:-1 tvg-id="AstroWarna" group-title="BACKUP" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna 2
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://tinyurl.com/2s3cksd7
 
