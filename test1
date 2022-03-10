@@ -9,8 +9,7 @@ url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" refresh=
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="INFO",C-19 Latest Info Entire World
-https://www547.ff-02.com/token=eJHui-ndZEPAhQYfobJwgQ/1646936052/115.135.0.0/137/2/2f/33d6606f0e3ba2f198880796457cf2f2-720p.mp4
+
 #EXTINF:-1 tvg-id="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/FreeTv_Egypt_Logo.png" group-title="WELCOME TO FAZLY CHANNEL",FREE TV NOT FOR SALE Fazly Kacak",- Last Update: xx,xx,2022
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
@@ -841,6 +840,12 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Kal Ho Naa Ho (2003)%20
 
 
 VOD|KOLEKSI
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/Escape_Room_Tournament_of_Champions_Movie_Poster.jpg" group-title="VOD|KOLEKSI", Escape Room: Tournament of Champions
+https://www.psystreams.com/v/8p8kpu8lj3j1e37/4a9392945dcc4f164507bd93d8b42409.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Blacklight_%28film%29.jpg" group-title="VOD|KOLEKSI", BLACKLIGHT
+https://www547.ff-02.com/token=eJHui-ndZEPAhQYfobJwgQ/1646936052/115.135.0.0/137/2/2f/33d6606f0e3ba2f198880796457cf2f2-720p.mp4
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Ghostbusters_-_Afterlife_official_theatrical_poster.jpg" group-title="VOD|KOLEKSI", Ghostbusters|Afterlife (2021)
 https://www1.xpeer.xyz/hls/ghostbusters-afterlife-2021/playlist_480.m3u8
