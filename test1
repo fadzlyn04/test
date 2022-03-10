@@ -1030,27 +1030,7 @@ VOD|KOREA
 https://www.googleapis.com/drive/v3/files/1-j6j8IxMfrS7EC0sihAHpOC3rXJmk1Qc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
-TEST
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="TEST " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViC7S46kOj58i95OW-LWm9zpcPR3lx44j3w&usqp=CAU" group-title="Sports",Astro SUPER SPORT 1 TEST
-http://shareext@urtv.cc:80/live/297340/297340/6708.ts?shareext.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="TEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgzp8uPE_a_f662nUWrfyDapprN8xOxnxGA&usqp=CAU" group-title="Sports",Astro SUPER SPORT 2 TEST
-http://shareext@urtv.cc:80/live/297340/297340/6710.ts?shareext.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="TEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtBTRgSJx-6CGMPy9RnOFLek6eOR1iZzsmw&usqp=CAU" group-title="Sports",Astro SUPER SPORT 3 TEST
-http://shareext@urtv.cc:80/live/297340/297340/6711.ts?shareext.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="TEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lrKlSm_0cRiydonwHocsx5u0eH0mxwzqEQ&usqp=CAU" group-title="Sports",Astro SUPER SPORT 4 TEST
-http://shareext@urtv.cc:80/live/297340/297340/6712.ts?shareext.ts
 
 
 
