@@ -1415,6 +1415,16 @@ https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 
 
+test
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=LqXnWSs6jyCfc1R0h7QAAAFEIARIQvaf3S4QvTw6xQjldrdkfBxoHa2FsdHVyYSIsMzA4OTYzMy1iZGE3Zjc0Yl84NDJmXzRmMGV
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",814 Astro SuperSport 4 HD SOOKA
+https://linear01-playback.sooka.my/CH2/masterCH2.mpd
+
+
+
+
 
 
 
