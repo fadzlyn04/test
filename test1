@@ -10,7 +10,7 @@ url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" refresh=
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/FreeTv_Egypt_Logo.png" group-title="WELCOME TO FAZLY CHANNEL",FREE TV NOT FOR SALE Fazly Kacak Last Update: 11,mac,2022
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/FreeTv_Egypt_Logo.png" group-title="WELCOME TO FAZLY CHANNEL",FREE TV NOT FOR SALE Fazly Kacak 
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
@@ -1030,6 +1030,151 @@ http://iptv12k.com:35461/movie/8022011502/123456/1069.mp4
 
 #EXTINF: -1 tvg-logo="https://www.imdb.com/title/tt14470102/mediaviewer/rm2541601281/" group-title="VOD|MELAYU", 18 Puasa Di Kampung Pisang
 http://iptv12k.com:35461/movie/8022011502/123456/1097.mp4
+
+#EXTINF:-1 tvg-logo="https://aqfad.netlify.app/images/Proksi.png" group-title="VOD|MELAYU",Proksi FHD
+https://onedrive-aqfadtv.vercel.app/api?path=/VOD/Movies/Proksi.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv.mp4&raw=true
+
+#EXTINF:-1 tvg-logo="https://aqfad.netlify.app/images/SiapaTutupLampu.png" group-title="VOD|MELAYU",Siapa Tutup Lampu? FHD
+https://onedrive-aqfadtv.vercel.app/api?path=/VOD/Movies/Siapa.Tutup.Lampu.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv.mp4&raw=true
+
+#EXTINF:-1,tvg-logo="https://www.imdb.com/title/tt16117198/mediaviewer/rm549120257" group-title="VOD|MELAYU",Khaenak Serangan Pocong? FHD
+https://onedrive.astradamy.com/api?path=/Movies/khaenak%20serangan%20pocong%20convert.mp4&raw=true
+
+#EXTINF:-1, tvg-logo="https://www.imdb.com/title/tt16117198/mediaviewer/rm549120257" group-title="VOD|MELAYU",Penunggang Agama? FHD
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Penunggang.Agama/Penunggang%20Agama%20(2021)%20HDTV%201080p-OMG-Anonymous.mp4&raw=true
+
+#EXTINF:-1,tvg-logo="https://www.imdb.com/title/tt16117198/mediaviewer/rm549120257" group-title="VOD|MELAYU",Penunggang Agama? FHD
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Penunggang.Agama/Penunggang.Agama.2.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv&raw=true
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg" group-title="VOD|MELAYU",Olympic Dream FHD
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Olympic.Dream.2021.1080p.WEB-DL-ms.en.zh-PENCURiMOViE.CYOU.mkv&raw=true
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/J_Revolusi.jpg" group-title="VOD|MELAYU",J Retrubusi
+https://onedrive-danielmy.vercel.app/api?path=/Movies/J2.J.Retribusi.2021.1080p.V2.WEB-DL-ms.en-PENCURiMOViE.SPACE.mkv.mp4&raw=true
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKE_IVP_LAND_432x243_202192_145322.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 1 (Nenek Hostel) AOTG Sebuah Asrama diganggu jelmaan nenek yang muncul sebaik lampu di matikan dan mula mengira penghuni yang belum tidur. Gangguan berlarutan hingga hampir meragut nyawa mereka.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/d3548844-4236-5bc5-8900-85d39d23dea6/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKF_IVP_LAND_432x243_202192_145450.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 2 (Jin Pemusnah) AOTG Rumah tangga Johan dan Munirah semakin panas. Anaknya pula sering menangis dan Munirah keguguran. Hal ini berkaitan dengan sikap Johan yang sering pulang lewat senja.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/f994bf7a-536e-58c8-ac59-cc148b65e812/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKG_IVP_LAND_432x243_202192_145633.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 3 (Hantu Kum Kum) AOTG Seorang wanita memilih jalan sesat demi kecantikan. Wajahnya menjadi hodoh setelah dia melanggar pantang larang yang dikenakan. Dia perlu menghisap darah 40 gadis sunti sebagai bayaran.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/5969fd11-6c7d-5f1a-aba3-71db4147c769/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKH_IVP_LAND_432x243_202192_145823.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 4 (Nenek Kebayan) AOTG Azri telah bertemu Laila di kawasan air terjun dan terpikat dengan kecantikannya. Mereka jatuh cinta/ sehinggakan Azri mengikuti Laila tanpa menyedari mainan ilusi nenek kebayan.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/5e08019a-cdcb-5ba8-831b-ed4acb65aa64/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKI_IVP_LAND_432x243_202192_1507.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 5 (Nu Gui) AOTG Alice telah dirogol dan dibunuh dengan kejam. Tunangnya/ Andy tidak dapat menerima kenyataan dan menyeru roh Alice. Kini roh Alice yang tak tenteram mula memburu dan ingin membunuh perogolnya.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/41b2d580-2de4-56d0-91b4-937c45d7ebc1/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKJ_IVP_LAND_432x243_202192_15122.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 6 (Hantu Raya) AOTG Pak Karim membela hantu raya untuk menjaga tanahnya. Suatu hari Pak Karim keluar menjerat ayam hutan namun hantu rayanya telah menyamar dan bersama dengan isterinya.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/ac9b694c-e2f7-58be-9d49-d230753ab16d/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKK_IVP_LAND_432x243_202194_23750.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 7 AOTG Nusantara is a place full of mystical spirits and the supernatural. Each episode has a unique solution depending on the type of disturbance/ the type of genie and the effect on the main character.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/0faff6b1-5c8b-5817-b34c-c66d93738f59/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKE_IVP_LAND_432x243_202192_145322.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 8 (Pocong) AOTG Farah yang depresi setelah putus tunang bercuti di sebuah hotel untuk menenangkan diri. Namun kehadiran pocong yang menemaninya merosakkan segalanya.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/9dafedd3-ec0a-5bb0-bb49-e516dda31ba1/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKM_IVP_LAND_432x243_202198_102735.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 9 (Langsuir) AOTG Mira yang mati dibunuh dengan kejam kembali memburu pembunuhnya. Dia merasa sedih kerana berpisah dengan suaminya dan tidak menyedari siapa dalang disebalik pembunuhannya itu.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/7f6ceb20-812b-58b1-a573-b91f20e0ca9d/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKN_IVP_LAND_448x252_202199_145654.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 10 (Hantu Takde Kepala) AOTG Janet mati di bunuh dengan cara kepalanya diambil sebagai satu ritual penyembahan untuk menguatkan struktur jambatan yang dibina. Hantu tanpa kepala Janet mula berkeliaran di jambatan tersebut.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/7f70c978-d585-53be-9107-3b0ea04e509c/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKO_IVP_LAND_448x252_2021915_101112.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 11 (Hantu Jepun) AOTG Sekumpulan remaja yang berkumpul untuk aktiviti tambahan sekolah mereka telah diganggu dengan kemunculan askar Jepun apabila salah seorang dari mereka melanggar pantang larang tempat tersebut.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/28835ae2-5eb5-5ff1-9066-ce8bbb8ae4d5/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKP_IVP_LAND_448x252_2021915_1092.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 12 (Penunggu Rumah Banglo) AOTG Siti bekerja sebagai pembantu rumah sementara di sebuah rumah banglo yang indah. Namun semakin hari satu-persatu rahsia rumah itu terbongkar dan Siti sedaya upaya cuba untuk melarikan diri.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/1225288e-43ff-5b94-9296-18e6d5751280/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKQ_IVP_LAND_448x252_2021917_144651.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 13 (Balan-Balan) AOTG Amri mengikuti kekasihnya Maria untuk pulak ke kampungnya di Sabah. Suatu malam beliau telah melihat makhluk berupa kepala terbang di hadapannya untuk mencari mangsa.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/4a70ce04-2f6e-5a33-af63-11b635c4c545/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKR_IVP_LAND_448x252_2021917_144954.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 14 (Hantu Air) AOTG Zaini dan rakannya telah menjumpai ancak yang dihayutkan untuk membuang saka sewaktu memancing. Tanpa di duga Zaini diam-diam telah mengambil sesuatu dari dari barang tersebut.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/2b189f7f-e5fb-52d8-aaf0-661a19ef7adb/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKS_IVP_LAND_448x252_2021920_2061.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 15 (Ulek Mayang) AOTG Sekumpulan sahabat yang perlu menghadapi situasi getir bersama-sama apabila perlu berdepan dengan semangat "Ulek Mayang" yang muncul dan membawa petaka kepada mereka.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/73fc992c-c866-5e94-ac1b-d2eff515f5b4/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKT_IVP_LAND_448x252_2021921_182651.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 16 (Hantu Orang Asli) AOTG Siti mendapat tawaran kerja sementra di sebuah rumah banglow dengan gaji yang mewah. Namun tanpa disedari penghuni rumah Siti bekerja itu telah lama mati dibunuh.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/b3f720d9-e818-5f2d-a92d-12c4583e4c5c/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKU_IVP_LAND_448x252_2021923_73545.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 17 (Nishi Dak) AOTG Sebagai pengurus baru Gopal telah berpindah ke sebuah estet di kawasan pendalaman bersama keluarganya. Tanpa disangka anaknya telah hilang diambil Nishi Dak/ roh jahat yang tidak tenteram.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/52275682-991c-5f9f-bb42-fec97ac3facf/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVPKV_IVP_LAND_672x378_2021924_7557.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 18 (Misteri Topeng Barongan) AOTG Sufian merupakan social media influencer dan pengumpul barang antik telah mendapatkan topeng Barongan dari seseorang. Namun tanpa disangka topeng itu membawa musibah kepada dirinya.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/860b9e3a-45ef-58ce-b575-4367d38222f8/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMID_IVP_LAND_672x378_2021928_162756.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 19 (Hantu Public Phone) AOTG Zana telah mengangkat deringan telefon di sebuah pondok telefon yang aneh. Sejak itu pelbagai gangguan muncul dan menghantui hidupnya dan merungkai sebuah rahsia yang tersimpan.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/04956d47-a959-5ff0-9a04-42fe4dedf34d/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIE_IVP_LAND_672x378_2021928_162952.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 20 (Sumpahan Abu Mayat) AOTG Susan & Gary merupakan pasangan yang ceria dan bahagia. Namun suatu hari Susan ditemui mati tergantung di hadapan rumah bersama sepucuk nota bunuh diri.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/83d1a493-8947-5832-be67-c7031184568a/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIF_IVP_LAND_672x378_2021929_19659.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 21 (Penunggu Pohon Beringin) AOTG Sumpahan Seroja yang difitnah dan dihukum mati di Pohon Beringin membawa malapetaka kepada seluruh kampung. Sejak kejadian itu pohon beringin itu menjadi tempat menghantar ancak untuk menjamu penunggu itu.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/fee3c93a-60b5-59ab-be72-bd25b9621d56/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIG_IVP_LAND_672x378_2021930_175244.jpg" group-title="VOD|MELAYU,Malaysian Ghost Stories EP 22 (Jenglot) AOTG Sepasang penuntut yang sedang mengkaji asal usul jenglot tidak menyedari mereka semakin hampir dengan bahaya yang besar. Jenglot yang disangka mitos itu muncul merebut raga yang baru.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/5d116399-0819-54f1-ae16-03468a961e0f/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIH_IVP_LAND_672x378_2021104_192455.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 23 (Mohini) AOTG Mohini jelmaan wanita mati bunuh diri setelah hubungan cintanya tidak kesampaian. Sejak dari itu roh gentayangan itu mencari mangsa sebagai penganti kekasihnya untuk cinta mereka yang tidak kesampaian.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/e3575115-9a59-5394-b4e5-84dc1580b0ca/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMII_IVP_LAND_672x378_2021105_205759.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 24 (Pulangkan Jari Aku) AOTG Sadam yang telah meninggal dunia kerana kemalangan kembali pulang ke rumah untuk meminta jarinya yang tidak sempurna. Seluruh kampung dihantui hantu tanpa jari yang mengetuk pintu mereka.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/cba68333-c625-52e8-a523-41fb15a6e63a/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIJ_IVP_LAND_672x378_2021106_203534.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 25 (Misteri Karak Highway) AOTG Tiga sahabat yang ingin ke Kuala Lumpur memilih untuk melalui jalan Karak lama untuk mengelak kesesakan akibat sebuah kemalangan. Namun ketika melalui jalan tersebut mereka menempuhi pengalaman yang menyeramkan.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/6c099417-7784-5a23-977d-8af1c3a64440/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIK_IVP_LAND_672x378_2021107_165314.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 26 (Janin) AOTG Hani & teman lelakinya telah melakukan pengguguran bayi berkali-kali dengan bantuan seorang bidan kampung. Namun kelakuan buruk meraka kali ini membawa padah apabila janin itu tidak ditanam degan betul.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/449e3d1f-b0c7-5baa-a9b5-b2d063beeff5/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIL_IVP_LAND_672x378_20211011_12589.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 27 (Kellie's Castle) AOTG Seorang pemuda yang nakal mendapat balasan apabila dia terperangkap di dalam Kellie's Castle pada waktu malam. Gangguan demi gangguan sebagai balasan kejahatan yang dia lakukan.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/d899abee-14db-5e9e-84c5-e98af10fd572/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIM_IVP_LAND_672x378_20211012_5460.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 28 (Bomoh Puaka) AOTG Hafizullah yang merasa tertipu dengan khidmat seorang bomoh untuk mendapatkan jawatan telah membunuh bomoh itu dengan kejam. Sejak kejadian itu hidupnya sentiasa dihantui jelmaan bomoh tersebut.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/2042661e-db73-5928-86e8-ce39ce2deacf/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIN_IVP_LAND_672x378_20211013_15752.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 29 (Jembalang Tanah) AOTG Ridhwan memutuskan untuk memecahkan sebuah busut besar yang ada di kebunya telah mengundang amukan dari jembalang tanah yang tinggal di situ. Satu-persatu nyawa ahli keluarganya menjadi buruan jembalang tanah tersebut.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/e209a6fe-45d6-5062-9928-eab719da26f0/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIO_IVP_LAND_672x378_20211014_71325.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 30 (Hantu Kopek) AOTG Kehadiran hantu kopek telah menimbulkan kerisauan penduduk kampung apabila anak-anak menjadi sasaran dan hilang disorok hantu tersebut. Kehilangan Fafa memaksa Pak Mad untuk bertindak melawan makhluk itu.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/833f6b99-8b9b-50d4-aea6-2896f02296d3/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIP_IVP_LAND_672x378_20211018_182749.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 31 (Boneka Puaka) AOTG Jasmine yang kemurungan setelah kematian anak sulungnya membeli sebuah boneka yang comel. Namun tanpa disedari boneka itu adalah boneka puaka yang diperbuat daripada tuala wanita terpakai.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/c63bf56c-250e-55de-a9bd-d7a8024eff0f/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIQ_IVP_LAND_448x252_20211019_3416.jpg" group-title="hVOD|MELAYU",Malaysian Ghost Stories EP 32 (Palesit) AOTG Perniagaan Nora mula terganggu apabila wujud gerai baru bersebelahan gerainya. Semakin hari keadaan semakin teruk sehingga mereka menemukan belalang pelesit yang muncul di gerai mereka.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/2701628a-a279-523e-b0f5-b31f8d87966c/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIR_IVP_LAND_448x252_20211020_13168.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 33 (Bidan Nek Nah 1) AOTG Kila bergegas pulang ke kampung setelah mendapat berita kematian neneknya seorang bidan tersohor. Pelbagai cerita aneh didengari Kila mengenai neneknya.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/aa9661d0-5e27-5a05-a145-bf8faf29f2c5/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIS_IVP_LAND_448x252_20211021_1221.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 34 (Bidan Nek Nah 2) AOTG Walaupun jasad Bidan Nek Nah telah mati namun ilmunya masih hidup. Kila yang terbelenggu mewarisi ilmu neneknya telah mengamalkan ilmu tersebut secara tidak sengaja.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/25dd7eae-ab9c-5fa0-b877-897dc38e49b6/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIT_IVP_LAND_448x252_20211025_141133.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 35 (Buka Hijab 1) AOTG Uzair yang cemburu dengan kebolehan sahabatnya Asmawi yang boleh melihat makhluk halus dari kecil ingin melakukan upacara membuka hijab.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/9c3ccccf-0cb7-55ec-8c78-8abf80535690/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIU_IVP_LAND_448x252_20211026_31626.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 36 (Buka Hijab 2) AOTG Menyesal dengan perbuatanya itu/ Uzair ingin pulang ke kampung nenek angkatnya untuk meminta bantuan. Namun tanpa Uzair sedari Nek Mun sebenarnya telah meninggal dunia.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/d2b34122-c7a3-560f-9576-22697799fae9/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIV_IVP_LAND_448x252_20211027_152539.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 37 (Buka Hijab 3) AOTG Terpaksa menerima keadaan dirinya yang kini boleh meilihat makhluk halus Uzair menggunakan kelebihan itu sebaiknya dengan membantu "makhluk" yang bergentayangan melunaskan urusan mereka.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/60a68c26-04b0-5976-b9f0-60747745c8d7/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWMIW_IVP_LAND_448x252_20211028_19359.jpg" group-title="VOD|MELAYU",Malaysian Ghost Stories EP 38 (Buka Hijab 4) AOTG Uzair bekerjasama dengan seorang detektif cuba membantu Umaira sorang gadis polos yang disangka membunuh diri namun sebenarnya adalah tumbal pada sebuah upacara peyembahan.
+https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/3b095baa-a99e-5ee6-86ab-56285b343dd1/default_ott.mpd
+
+
+
+
+
+
+
+
+
+
 
 VOD|KOREA
 
