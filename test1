@@ -800,6 +800,11 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1g-id="821" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/WrestleMania.png" group-title="SPORT",WWE NETWORK
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
+#EXTINF:-1 tvg-id="809" tvg-name="Astro SuperSport Plus HD" group-title="SPORT" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport Plus 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_ott.mpd
+
 VOD|KLASIK
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/3/30/Anak_Bapak.jpg/220px-Anak_Bapak.jpg" group-title="VOD|KLASIK", Anak Bapak [Warna]
@@ -1843,10 +1848,7 @@ test
 https://lineahr01-playback.sooka.my/CH2/masterCH2.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
-#EXTINF:-1 tvg-id="809" tvg-name="Astro SuperSport Plus HD" group-title="SPORT" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport Plus HD CH809
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_ott.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1868,6 +1870,12 @@ https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fb9d78b1c5776744014935bb3fe4ea10:0dc6d298bc48c0de11dc6bf9ede30323
 #EXTINF:-1 tvg-id="809" tvg-name="Astro SuperSport Plus HD" group-title="test" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport Plus HD test2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk 
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30 #EXTINF:-1 group-title="test" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD 
+https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd
 
 
 
