@@ -1860,6 +1860,12 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/06-720.mpd
 #EXTINF:-1 tvg-id="RTMK05" tvg-name="TV SUKAN" group-title="test" tvg-logo="https://iili.io/1NTga4.jpg",TV SUKAN FHD
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/05-1080.mpd
 
+EXTINF:-1 tvg-id="" tvg-name="Astro first" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/FsL6Ctw/Astro-First-2012-logo.png",Astrox First 
+#EXTVLCOPT:http-referrer=http://www.astro.com.my 
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4 
+#https://tinyurl.com/2p96amym
+
+
 
 
 
