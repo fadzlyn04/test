@@ -1887,6 +1887,14 @@ http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
 http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 
+#EXTINF:-1 tvg-id="300" group-title="test" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector.png",ASTRO FIRST
+http://194.233.66.151:25461/rumah/home/203
+
+#EXTINF:-1 tvg-id="333" group-title="test" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector.png",ASTRO FIRST 2
+http://194.233.66.151:25461/rumah/home/287
+
+#EXTINF:-1 tvg-id="213" group-title="test" tvg-logo="https://i.pinimg.com/280x280_RS/d3/42/5e/d3425e4ddac5b85f1bb62a8b36c97566.jpg",24/7 MOVIE
+http://194.233.66.151:25461/rumah/home/257
 
 
 
