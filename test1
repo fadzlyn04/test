@@ -10,7 +10,7 @@ url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="1440" max-conn="1" refre
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/FreeTv_Egypt_Logo.png" group-title="WELCOME TO FAZLY CHANNEL",FREE TV NOT FOR SALE Fazly Kacak 
+#EXTINF:-1 tvg-id="00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/FreeTv_Egypt_Logo.png" group-title="WELCOME TO FAZLY CHANNEL",FREE TV NOT FOR SALE Fazly Kacak 
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
