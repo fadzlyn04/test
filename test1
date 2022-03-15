@@ -1860,7 +1860,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb9d78b1c5776744014935bb3fe4ea10:0dc6d298bc48c0de11dc6bf9ede30323
-#EXTINF:-1 tvg-id="809" tvg-name="Astro SuperSport Plus HD" group-title="tets" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport Plus HD test2
+#EXTINF:-1 tvg-id="809" tvg-name="Astro SuperSport Plus HD" group-title="test" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport Plus HD test2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_ott.mpd
 
 
