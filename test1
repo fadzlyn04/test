@@ -1839,7 +1839,7 @@ https://lineahr01-playback.sooka.my/CH2/masterCH2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
-#EXTINF:-1 tvg-id="809" tvg-name="Astro SuperSport Plus HD" group-title="Sports" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport Plus HD CH809
+#EXTINF:-1 tvg-id="809" tvg-name="Astro SuperSport Plus HD" group-title="SPORT" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport Plus HD CH809
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_ott.mpd
 
 
