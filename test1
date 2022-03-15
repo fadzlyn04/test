@@ -1838,28 +1838,6 @@ https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 test
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=edef8ba979d64acea3c827dcd51d21ed&key=9c50a5c2b6219463f05c5d8f9f42892e
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="test",814 Astro SuperSport 4 HD SOOKA
-https://lineahr01-playback.sooka.my/CH2/masterCH2.mpd
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77
-#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="test" tvg-logo="https://iili.io/1NzqF4.png",Astro SuperSport SOOKA
-https://linear01-playback.sooka.my/CH1/masterCH1.mpd|user-agent=Mozilla/5.0 (Linux; Android 9; Redmi 7A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.66 Mobile Safari/537.36
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b3ccf73a7a664f85ae7411367ffb2fa7&key=9687d91b7fd647a88183d0a4cc925f77
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="test" tvg-logo="https://iili.io/1NzqF4.png",Astro SuperSport SOOKA
-https://linear01-playback.sooka.my/CH1/masterCH1.mpd
-
-
 #EXTINF:-1 tvg-id="Astro First" tvg-name="test" tvg-logo="https://i.postimg.cc/hvrqWnnh/download-2021-09-10-T142246-149.png" group-title="test", Astro First A
 http://194.233.70.176:25461/tivimate/123/36
 
@@ -1871,6 +1849,17 @@ EXTINF:-1 tvg-id="" tvg-name="Astro first" group-title="test" tvg-logo="https://
 #EXTVLCOPT:http-referrer=http://www.astro.com.my 
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4 
 https://tinyurl.com/2p96amym
+
+
+#EXTINF:-1 tvg-id="RTMK05" tvg-name="TV SUKAN" group-title="test" tvg-logo="https://iili.io/1NTga4.jpg",TV SUKAN Auto
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+#EXTINF:-1 tvg-id="RTMK05" tvg-name="TV SUKAN" group-title="test" tvg-logo="https://iili.io/1NTga4.jpg",TV SUKAN HD
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/06-720.mpd
+
+#EXTINF:-1 tvg-id="RTMK05" tvg-name="TV SUKAN" group-title="test" tvg-logo="https://iili.io/1NTga4.jpg",TV SUKAN FHD
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/05-1080.mpd
+
 
 
 
