@@ -1877,6 +1877,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_ott.mpd
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30 #EXTINF:-1 group-title="test" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD 
 https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd
 
+#EXTINF:-1 tvg-id="DuniaSinemaHD" group-title="test" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
+
+#EXTINF:-1 tvg-id="PesonaHD" group-title="test" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",141 Pesona HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
+
 
 
 
