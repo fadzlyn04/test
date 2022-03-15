@@ -1818,6 +1818,13 @@ test
 https://lineahr01-playback.sooka.my/CH2/masterCH2.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=9c50a5c2b6219463f05c5d8f9f42892e
+#EXTINF:-1 tvg-logo="https://iili.io/1NzqF4.png" group-title="test",Astro Supersport Plus 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_ott.mpd
+
+
+
 
 
 
