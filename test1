@@ -150,6 +150,10 @@ https://link.zozotv.xyz:443/live/dayah/dayah/352.ts
 #EXTINF:-1 tvg-ID="123" tvg-logo="https://i.imgur.com/zN35gsY.png" group-title="MALAYSIA",AWESOME
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=743
 
+#EXTINF:-1 tvg-id="" tvg-name="IKIM" group-title="MALAYSIA" tvg-logo="https://iili.io/1NTfv2.png",TV IKIM HD
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+
 
 
 
@@ -678,23 +682,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 #EXTINF:-1 tvg-id="612" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TA-DAA!.png" group-title="KIDS",TA-DAA!
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="CHN" tvg-name="Aniplus" group-title="KIDS" tvg-logo="https://iili.io/1Nc919.jpg",Aniplus
-https://liveanevia.mncnow.id/live/eds/Aniplus/sa_dash_vmx/Aniplus.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
-#EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="Kids" tvg-logo="https://iili.io/1NoIJS.png",Astro Ceria HD CH611
+#EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="KIDS" tvg-logo="https://iili.io/1NoIJS.png",Astro Ceria HD CH611
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
-
-
-
-
-
-
-
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1863,34 +1854,11 @@ https://linear01-playback.sooka.my/CH1/masterCH1.mpd|user-agent=Mozilla/5.0 (Lin
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="test" tvg-logo="https://iili.io/1NzqF4.png",Astro SuperSport SOOKA
 https://linear01-playback.sooka.my/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="IKIM" group-title="MALAYSIA" tvg-logo="https://iili.io/1NTfv2.png",TV IKIM HD
-https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb9d78b1c5776744014935bb3fe4ea10:0dc6d298bc48c0de11dc6bf9ede30323
-#EXTINF:-1 tvg-id="809" tvg-name="Astro SuperSport Plus HD" group-title="test" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport Plus HD test2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_ott.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk 
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30 #EXTINF:-1 group-title="test" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD 
-https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd
-
-#EXTINF:-1 tvg-id="DuniaSinemaHD" group-title="test" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
-http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
-
-#EXTINF:-1 tvg-id="PesonaHD" group-title="test" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",141 Pesona HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
-http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
-
-#EXTINF:-1 tvg-id="Astro First" tvg-name="test" tvg-logo="https://i.postimg.cc/hvrqWnnh/download-2021-09-10-T142246-149.png" group-title="Movie", Astro First A
+#EXTINF:-1 tvg-id="Astro First" tvg-name="test" tvg-logo="https://i.postimg.cc/hvrqWnnh/download-2021-09-10-T142246-149.png" group-title="test", Astro First A
 http://194.233.70.176:25461/tivimate/123/36
 
-#EXTINF:-1 tvg-id="Astro First" tvg-name="test" tvg-logo="https://i.postimg.cc/hvrqWnnh/download-2021-09-10-T142246-149.png" group-title="Movie", Astro First B
+#EXTINF:-1 tvg-id="Astro First" tvg-name="test" tvg-logo="https://i.postimg.cc/hvrqWnnh/download-2021-09-10-T142246-149.png" group-title="test", Astro First B
 http://194.233.70.176:25461/tivimate/123/35
 
 
@@ -1898,15 +1866,6 @@ EXTINF:-1 tvg-id="" tvg-name="Astro first" group-title="test" tvg-logo="https://
 #EXTVLCOPT:http-referrer=http://www.astro.com.my 
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4 
 https://tinyurl.com/2p96amym
-
-#EXTINF:-1 group-title="test" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfad2811.github.io/logos/AstroRia.png",104 Astro Ria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/9c71c4a2-29c5-469b-abe5-8fe576a92fad
-# https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/21yKfvuijGFluFOO2tq33h-R3Sv38Smvx4p6SF72XA-YM=tqbh/dash-wv/jitp-linearwm/1004/default_ott.mpd
-# http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6730
-
-
 
 
 
