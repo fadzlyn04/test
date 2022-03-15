@@ -1887,11 +1887,18 @@ http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
 http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 
-#EXTINF:-1 tvg-id="Astro First" tvg-name="Astro First" tvg-logo="https://i.postimg.cc/hvrqWnnh/download-2021-09-10-T142246-149.png" group-title="Movie", Astro First A
+#EXTINF:-1 tvg-id="Astro First" tvg-name="test" tvg-logo="https://i.postimg.cc/hvrqWnnh/download-2021-09-10-T142246-149.png" group-title="Movie", Astro First A
 http://194.233.70.176:25461/tivimate/123/36
 
-#EXTINF:-1 tvg-id="Astro First" tvg-name="Astro First" tvg-logo="https://i.postimg.cc/hvrqWnnh/download-2021-09-10-T142246-149.png" group-title="Movie", Astro First B
+#EXTINF:-1 tvg-id="Astro First" tvg-name="test" tvg-logo="https://i.postimg.cc/hvrqWnnh/download-2021-09-10-T142246-149.png" group-title="Movie", Astro First B
 http://194.233.70.176:25461/tivimate/123/35
+
+
+EXTINF:-1 tvg-id="" tvg-name="Astro first" group-title="test" tvg-logo="https://i.ibb.co/FsL6Ctw/Astro-First-2012-logo.png",Astrox First 
+#EXTVLCOPT:http-referrer=http://www.astro.com.my 
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4 
+https://tinyurl.com/2p96amym
+
 
 
 
