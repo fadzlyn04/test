@@ -1847,33 +1847,15 @@ https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 test
 
-#EXTINF:-1 tvg-id="Astro First" tvg-name="test" tvg-logo="https://i.postimg.cc/hvrqWnnh/download-2021-09-10-T142246-149.png" group-title="test", Astro First A
-http://194.233.70.176:25461/tivimate/123/36
-
-#EXTINF:-1 tvg-id="Astro First" tvg-name="test" tvg-logo="https://i.postimg.cc/hvrqWnnh/download-2021-09-10-T142246-149.png" group-title="test", Astro First B
-http://194.233.70.176:25461/tivimate/123/35
+#EXTINF:-1 tvg-id="" tvg-name="Astro first" group-title="test" tvg-logo="https://i.ibb.co/FsL6Ctw/Astro-First-2012-logo.png",Astrox First1 
+rtmp://128.199.216.145:1935/live/
 
 
-EXTINF:-1 tvg-id="" tvg-name="Astro first" group-title="test" tvg-logo="https://i.ibb.co/FsL6Ctw/Astro-First-2012-logo.png",Astrox First 
-#EXTVLCOPT:http-referrer=http://www.astro.com.my 
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4 
+#EXTINF-1 tvg-id="" tvg-name="Astro first" group-title="test" tvg-logo="https://i.ibb.co/FsL6Ctw/Astro-First-2012-logo.png",Astrox First2
+rtmp://iptv.rileks.net:8888/live/hd
+
+EXTINF:-1 tvg-id="" tvg-name="Astro first" group-title="test" tvg-logo="https://i.ibb.co/FsL6Ctw/Astro-First-2012-logo.png",Astrox First3
 https://tinyurl.com/2p96amym
-
-
-#EXTINF:-1 tvg-id="RTMK05" tvg-name="TV SUKAN" group-title="test" tvg-logo="https://iili.io/1NTga4.jpg",TV SUKAN Auto
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-
-#EXTINF:-1 tvg-id="RTMK05" tvg-name="TV SUKAN" group-title="test" tvg-logo="https://iili.io/1NTga4.jpg",TV SUKAN HD
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/06-720.mpd
-
-#EXTINF:-1 tvg-id="RTMK05" tvg-name="TV SUKAN" group-title="test" tvg-logo="https://iili.io/1NTga4.jpg",TV SUKAN FHD
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/05-1080.mpd
-
-EXTINF:-1 tvg-id="" tvg-name="Astro first" group-title="test" tvg-logo="https://i.ibb.co/FsL6Ctw/Astro-First-2012-logo.png",Astrox First 
-#EXTVLCOPT:http-referrer=http://www.astro.com.my 
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4 
-#https://tinyurl.com/2p96amym
-
 
 
 
