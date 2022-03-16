@@ -1847,22 +1847,6 @@ https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 test
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro first" group-title="test" tvg-logo="https://i.ibb.co/FsL6Ctw/Astro-First-2012-logo.png",Astrox First1 
-rtmp://128.199.216.145:1935/live/
-
-
-#EXTINF-1 tvg-id="" tvg-name="Astro first" group-title="test" tvg-logo="https://i.ibb.co/FsL6Ctw/Astro-First-2012-logo.png",Astrox First2
-rtmp://iptv.rileks.net:8888/live/hd
-
-EXTINF:-1 tvg-id="" tvg-name="Astro first" group-title="test" tvg-logo="https://i.ibb.co/FsL6Ctw/Astro-First-2012-logo.png",Astrox First3
-https://tinyurl.com/2p96amym
-
-
-
-
-
-
-
 
 
 
