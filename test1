@@ -1835,7 +1835,5 @@ https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 test
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=aUzMAb1KRF9uwV_gcp4x5Q&exp=1638297936&tvcode=flik&uid=2935687&utoken= 
-#EXTINF:-1 tvg-logo="" tvg-name="flik" group-title="test", flik  
-https://cdn12jtedge.useetv.com/dass/133/flik_dash/manifest_wuseetv.mpd?encp=bxQJz_HaMfeeipZwTktftg&uid=&expp=1638305136 
+#EXTINF:-1 group-title="India",Bflix Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
