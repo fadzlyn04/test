@@ -1870,5 +1870,71 @@ http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 
 
+#EXTINF:-1 tvg-id="unifiSports1" group-title="test" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
+
+#EXTINF:-1 tvg-id="unifiSports2" group-title="test" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest?cb=20210712113109",unifi Sports 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
+
+#EXTINF:-1 tvg-id="unifiSports3" group-title="test" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Unifi-Sports-3.png/revision/latest?cb=20210712113331",unifi Sports 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
+
+#EXTINF:-1 tvg-id="unifiSports4" group-title="test" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Unifi-Sports-4.png/revision/latest?cb=20210712113617",unifi Sports 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
+
+#EXTINF:-1 tvg-id="unifiSports5" group-title="test" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Unifi-Sports-5.png/revision/latest?cb=20210712113706",unifi Sports 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
+
+#EXTINF:-1 tvg-id="unifiSports6" group-title="test" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/NpUkSL3T",unifi Sports 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+https://web.hypp.tv:443/PLTV/88888888/224/3221227795/3221227795.mpd
+
+#EXTINF:-1 tvg-id="unifiSports7" group-title="test" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/1gQKtrxB",unifi Sports 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+https://web.hypp.tv:443/PLTV/88888888/224/3221227787/3221227787.mpd
+
+#EXTINF:-1 tvg-id="unifiSports8" group-title="test" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/VrUDHzHa",unifi Sports 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+https://web.hypp.tv:443/PLTV/88888888/224/3221227798/3221227798.mpd
+
+#EXTINF:-1 tvg-id="unifiSports9" group-title="test" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8rs5tKy8",unifi Sports 9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+https://web.hypp.tv:443/PLTV/88888888/224/3221227793/3221227793.mpd
+
+#EXTINF:-1 tvg-id="unifiSports10" group-title="test" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8Y9dZUSI",unifi Sports 10
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+https://web.hypp.tv:443/PLTV/88888888/224/3221227830/3221227830.mpd
+
+#EXTINF:-1 tvg-id="unifiSports11" group-title="test" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/pC41J1AK",unifi Sports 11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+https://web.hypp.tv:443/PLTV/88888888/224/3221227833/3221227833.mpd
+
+#EXTINF:-1 tvg-id="unifiSports12" group-title="test" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/cL0ged2e",unifi Sports 12
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+https://web.hypp.tv:443/PLTV/88888888/224/3221227799/3221227799.mpd
+
+#EXTINF:-1 tvg-id="unifiSports13" group-title="test" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/wuC3Kw9b",unifi Sports 13
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzY4ZjY0YzYtNGQzZC0zMTY0LWJmMDUtYjJkMWYzNDY5ZjI5
+https://web.hypp.tv:443/PLTV/88888888/224/3221227802/3221227802.mpd
+
+
 
 
