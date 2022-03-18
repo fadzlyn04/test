@@ -495,6 +495,13 @@ https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="MOVIE",GALAXY PREMIUM
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png" group-title="MOVIE",&FLIX
+https://link.zozotv.xyz:443/live/dayah/dayah/104.ts
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2018/09/Flixbus_Logo_green_background.png" group-title="MOVIE",FLIXBUS
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+
 
 
 
@@ -1835,9 +1842,4 @@ https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 test
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png" group-title="test",&FLIX
-https://link.zozotv.xyz:443/live/dayah/dayah/104.ts
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2018/09/Flixbus_Logo_green_background.png" group-title="test",FLIXBUS
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
