@@ -15,6 +15,8 @@ http://elemento.x10.mx/stream/assp1.mpd
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
 https://linear01-playback.sooka.my/CH4/masterCH4.mpd
 
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://fazly.freevar.com/picture/logo.png" group-title="CLOSED",Ass-tro SuperSport 2 HD
+http://fazly.freevar.com/picture/logo.png
 
 
 
