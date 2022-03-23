@@ -4,18 +4,8 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
-#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
-http://elemento.x10.mx/stream/assp1.mpd
-#http://203.154.243.89:21201/nakhon
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YemtUa3FJLWZHeG1tUUliNDU0dzctZXdKaGNXWUQ4YTJHaWJYb1BBY3JtaXVGd0hqY2dsQWJKeGYzQ0c1TWoxZWFwMjVBSmNaR25NYTF6TnVSUFBBOFNPa0ZxbFhIUU83Z1JzbTVUVnVPalVDazVDZkZPRnROMExaUUliQkw5eHpWYkFSbktuWUowR1p0YmVIdEM3UmFFZUViWWgzOVQ0UkpkQmtXRzM3UFhyM3c1aWdJZTBtbktnUEpuVUR6QmwtSmoxV1BEeGxRTVp4REpFNmVGVlJvUXhrc21sYk1VdG1ib0JKQ1pTLTduUXpsb0dDMkEyTE5NaFJ1aklqUmU5ZEUyTno1ZmJWcVJVckhsY0V3cENXMXlNd29Ra1FNdGxsRTZlWWlsYWpfN1NScUotMnQzWm9ob1RYV1o3SXM4WXdsZTgtMU5OQzlKSTNTQlRaamVYOG96X0FLOTI3cllGU3BFQzZyUVBqUHo5ejJjd3JlWnU1elAxOW5MdjdPU2lWazNMZGQ0TGpzNWxZZkk3NDhWajc4VmFCSEp1NkNQOHZzNUU5eFdUM0c0TDBMRW1zTFdjUnhpaHhDbFQ4RW1RSXc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUyMzIiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiOGYxZGEzOTlfMzI1Ml80N2VjX2E2YWNfZGQ3YmFmYjk1ZmEyIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHprVGtxSS1mR3htbVFJYjQ1NHc3LWV3SmhjV1lEOGEyR2liWG9QQWNybWl1RndIamNnbEFiSnhmM0NHNU1qMWVhcDI1QUpjWkduTWExek51UlBQQThTT2tGcWxYSFFPN2dSc201VFZ1T2pVQ2s1Q2ZGT0Z0TjBMWlFJYkJMOXh6VmJBUm5LbllKMEdadGJlSHRDN1JhRWVFYlloMzlUNFJKZEJrV0czN1BYcjN3NWlnSWUwbW5LZ1BKblVEekJsLUpqMVdQRHhsUU1aeERKRTZlRlZSb1F4a3NtbGJNVXRtYm9CSkNaUy03blF6bG9HQzJBMkxOTWhSdWpJalJlOWRFMk56NWZiVnFSVXJIbGNFd3BDVzF5TXdvUWtRTXRsbEU2ZVlpbGFqXzdTUnFKLTJ0M1pvaG9UWFdaN0lzOFl3bGU4LTFOTkM5SkkzU0JUWmplWDhvel9BSzkyN3JZRlNwRUM2clFQalB6OXoyY3dyZVp1NXpQMTluTHY3T1NpVmszTGRkNExqczVsWWZJNzQ4Vmo3OFZhQkhKdTZDUDh2czVFOXhXVDNHNEwwTEVtc0xXY1J4aWh4Q2xUOEVtUUl3PSIsInVkaWQiOiIwYzZlYjg2Yy0wMGNmLTQzMTEtYmIwZS1kZTFmZjIxODRlN2VfV0VCLTVhMGE5ZGE3LWVmNjQtYWFkYy1jOTM1LThlMjA0ODVhMzY0OCIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=MdoSJ9CLvaSYloCHGLmqEHEcXsQ%3d&sessionId=89accf30-1ab8-a047-1598-274f245b2098:cf288072-550b-6875-c5d4-caba9b68f658&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1sLS1wbHR2LS1oZWFkbGluZS1tYWtlcnMtMjAyMS0yMi8xMDk0NDk2L3BsYXllcj9saW5lYXJJZD0xMDAxMzY1MzkmaXNMaXZlPXRydWU=
-#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
-https://linear01-playback.sooka.my/CH4/masterCH4.mpd
-
-#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://fazly.freevar.com/picture/logo.png" group-title="CLOSED",Ass-tro SuperSport 2 HD
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://fazly.freevar.com/picture/logo.png" group-title="CLOSED",Tutup Buat Sementara
 http://fazly.freevar.com/picture/logo.png
 
 
