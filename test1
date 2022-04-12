@@ -1366,40 +1366,77 @@ https://astro1.rastream.com/amp-myfm-kk
 
 
 
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="beIN Sports Grup",  beIN Movies HD 1 Premiere
+http://vt.vttpi.com:8000/live/P-957977/P-740465/158.ts
 
-                                                                  astro first
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="beIN Sports Grup",  beIN Movies HD 2 Action
+http://vt.vttpi.com:8000/live/P-957977/P-740465/159.ts
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="beIN Sports Grup",  beIN Movies HD 3 Drama
+http://vt.vttpi.com:8000/live/P-957977/P-740465/160.ts
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="beIN Sports Grup",  beIN Movies HD 4 Family
+http://vt.vttpi.com:8000/live/P-957977/P-740465/161.ts
 
 
 
+                                                                 
+#EXTINF:-1 tvg-logo="http://h194-40-240-179.securepoint.io:83/images/538262f3e89a672467cc9404150433b9.png" group-title="SPORTS: International",  Astro Super Sport 1 HD
+http://android.vodiptv.org:83/62850141/27171236/364352.ts
 
+#EXTINF:-1 tvg-logo="http://h194-40-240-179.securepoint.io:83/images/0d1df67951abe6e39362e281dbd1ef42.png" group-title="SPORTS: International",  Astro Super Sport 2HD
+http://android.vodiptv.org:83/62850141/27171236/364351.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="Astro First",Astro First 477- Kg Pisang Berbuah 2 Kali
-https://link.zozotv.xyz:443/1234/1234/509
+#EXTINF:-1 tvg-logo="http://h194-40-240-179.securepoint.io:83/images/47e7256b38bfc71f0432f05380efeb70.png" group-title="SPORTS: International",  Astro Super Sport 3HD
+http://android.vodiptv.org:83/62850141/27171236/364350.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="Astro First",Astro First 479- Hantu Mok Joh
-https://link.zozotv.xyz:443/1234/1234/505
+#EXTINF:-1 tvg-logo="http://h194-40-240-179.securepoint.io:83/images/c6b32345ad8e72b84fa952f26ed0b460.png" group-title="SPORTS: International",  Astro Super Sport 4HD
+http://android.vodiptv.org:83/62850141/27171236/364349.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="Astro First",Astro First 479- Hantu Kuat Ketawa
-https://link.zozotv.xyz:443/1234/1234/507
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1614323422-.png" group-title="Entertainment & Movie", CINEMA WORLD
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="Astro First",Astro First 478- Marabahaya Underground
-https://link.zozotv.xyz:443/1234/1234/450
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="Entertainment & Movie", CINEMA EUROPE
+http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="Astro First",Astro First 474 - Serangan Pocong
-https://link.zozotv.xyz:443/1234/1234/446
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1585823484-.jpg" group-title="Entertainment & Movie", AXN
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="Astro First",Astro First 476 - Hantu Ke Lima
-https://link.zozotv.xyz:443/1234/1234/432
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586426967-.png" group-title="Entertainment & Movie", KIX
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="Astro First",Astro First 475 - Penunggang Agama 2
-https://link.zozotv.xyz:443/1234/1234/430
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000661-.png" group-title="Entertainment & Movie", HITS
+http://210.210.155.35:80/dr9445/h/h37/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="Astro First",Astro First 477- Siapa Tutup Lampu??
-https://link.zozotv.xyz:443/1234/1234/448
+#EXTINF:-1 tvg-logo="https://logolook.net/wp-content/uploads/2021/12/Bflix-Logo.png" group-title="Entertainment & Movie", Bflix MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="Astro First",Astro First 474 - Belaban Hidup
-https://link.zozotv.xyz:443/1234/1234/377
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/zeebioskop.png" group-title="Entertainment & Movie",ZEE BIOSKOP
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
 
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="Entertainment & Movie",Thrill
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvn.png" group-title="Entertainment & Movie", tvN
+http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png" group-title="Entertainment & Movie",  Blue Ant extream
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/blue_ant_entertainment.png", Rock ant entertrainment
+http://210.210.155.35/dr9445/h/h16/02.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantextreme.png" group-title="Entertainment & Movie", Blue Ant Extreme
+http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kplus.png" group-title="Entertainment & Movie", K+
+http://210.210.155.35/session/7079735e-3130-11eb-9468-c81f66f89318/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gem.png" group-title="Entertainment & Movie", Sony GEM TV
+http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Entertainment & Movie", Sony One
+http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
 
 
 
