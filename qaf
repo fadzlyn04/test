@@ -1,7 +1,7 @@
 
 billed-msg="😎PERSONAL USE ONLY !DO NOT SELL THIS PLAYLIST!😎"
 
-#EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24" billed-msg="😎 HAZIQ DANIAL MOHD IQBAL 😎"
+#EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24" billed-msg="😎 PERSONAL USE ONLY !DO NOT SELL THIS PLAYLIST! 😎"
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
